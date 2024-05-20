@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="568.207656pt" height="1166.243125pt" viewBox="0 0 568.207656 1166.243125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-05-19T20:24:03.925431</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1166.243125 
+L 568.207656 1166.243125 
+L 568.207656 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 337.877656 1125.16 
+L 561.007656 1125.16 
+L 561.007656 7.2 
+L 337.877656 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 337.877656 1125.16 
+L 337.877656 7.2 
+" clip-path="url(#p64b54dade9)" style="fill: none; stroke: #999999; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 337.877656 1106.037 
+L 338.474071 1106.037 
+L 338.474071 1085.443 
+L 337.877656 1085.443 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 337.877656 1076.617 
+L 338.488796 1076.617 
+L 338.488796 1056.023 
+L 337.877656 1056.023 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 337.877656 1047.197 
+L 338.645075 1047.197 
+L 338.645075 1026.603 
+L 337.877656 1026.603 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 337.877656 1017.777 
+L 338.72953 1017.777 
+L 338.72953 997.183 
+L 337.877656 997.183 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 337.877656 988.357 
+L 338.778562 988.357 
+L 338.778562 967.763 
+L 337.877656 967.763 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 337.877656 958.937 
+L 339.043863 958.937 
+L 339.043863 938.343 
+L 337.877656 938.343 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 337.877656 929.517 
+L 339.182697 929.517 
+L 339.182697 908.923 
+L 337.877656 908.923 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 337.877656 900.097 
+L 339.210198 900.097 
+L 339.210198 879.503 
+L 337.877656 879.503 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 337.877656 870.677 
+L 339.989069 870.677 
+L 339.989069 850.083 
+L 337.877656 850.083 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 337.877656 841.257 
+L 341.226045 841.257 
+L 341.226045 820.663 
+L 337.877656 820.663 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 337.877656 811.837 
+L 341.256052 811.837 
+L 341.256052 791.243 
+L 337.877656 791.243 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 337.877656 782.417 
+L 342.004536 782.417 
+L 342.004536 761.823 
+L 337.877656 761.823 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 337.877656 752.997 
+L 342.146575 752.997 
+L 342.146575 732.403 
+L 337.877656 732.403 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 337.877656 723.577 
+L 342.277762 723.577 
+L 342.277762 702.983 
+L 337.877656 702.983 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 337.877656 694.157 
+L 343.355666 694.157 
+L 343.355666 673.563 
+L 337.877656 673.563 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 337.877656 664.737 
+L 343.661384 664.737 
+L 343.661384 644.143 
+L 337.877656 644.143 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 337.877656 635.317 
+L 344.917542 635.317 
+L 344.917542 614.723 
+L 337.877656 614.723 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 337.877656 605.897 
+L 347.255139 605.897 
+L 347.255139 585.303 
+L 337.877656 585.303 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 337.877656 576.477 
+L 347.502193 576.477 
+L 347.502193 555.883 
+L 337.877656 555.883 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 337.877656 547.057 
+L 347.662986 547.057 
+L 347.662986 526.463 
+L 337.877656 526.463 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 337.877656 517.637 
+L 350.100135 517.637 
+L 350.100135 497.043 
+L 337.877656 497.043 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 337.877656 488.217 
+L 352.119489 488.217 
+L 352.119489 467.623 
+L 337.877656 467.623 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 337.877656 458.797 
+L 352.861762 458.797 
+L 352.861762 438.203 
+L 337.877656 438.203 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 337.877656 429.377 
+L 360.208774 429.377 
+L 360.208774 408.783 
+L 337.877656 408.783 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 337.877656 399.957 
+L 360.805545 399.957 
+L 360.805545 379.363 
+L 337.877656 379.363 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 337.877656 370.537 
+L 370.077424 370.537 
+L 370.077424 349.943 
+L 337.877656 349.943 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 337.877656 341.117 
+L 372.330969 341.117 
+L 372.330969 320.523 
+L 337.877656 320.523 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 337.877656 311.697 
+L 372.665641 311.697 
+L 372.665641 291.103 
+L 337.877656 291.103 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 337.877656 282.277 
+L 376.106821 282.277 
+L 376.106821 261.683 
+L 337.877656 261.683 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 337.877656 252.857 
+L 378.943112 252.857 
+L 378.943112 232.263 
+L 337.877656 232.263 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 337.877656 223.437 
+L 404.184891 223.437 
+L 404.184891 202.843 
+L 337.877656 202.843 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 337.877656 194.017 
+L 421.864601 194.017 
+L 421.864601 173.423 
+L 337.877656 173.423 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 337.877656 164.597 
+L 422.059372 164.597 
+L 422.059372 144.003 
+L 337.877656 144.003 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 337.877656 135.177 
+L 445.393431 135.177 
+L 445.393431 114.583 
+L 337.877656 114.583 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 337.877656 105.757 
+L 454.590306 105.757 
+L 454.590306 85.163 
+L 337.877656 85.163 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 337.877656 76.337 
+L 457.950604 76.337 
+L 457.950604 55.743 
+L 337.877656 55.743 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 337.877656 46.917 
+L 550.382418 46.917 
+L 550.382418 26.323 
+L 337.877656 26.323 
+z
+" clip-path="url(#p64b54dade9)" style="fill: #008bfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <defs>
+       <path id="m441016d1a7" d="M 0 0 
+L 0 3.5 
+" style="stroke: #333333; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m441016d1a7" x="337.877656" y="1125.16" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill: #333333; font: 11px 'Nimbus Sans', sans-serif; text-anchor: middle" x="337.877656" y="1140.179688" transform="rotate(-0 337.877656 1140.179688)">0.000</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m441016d1a7" x="382.553498" y="1125.16" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill: #333333; font: 11px 'Nimbus Sans', sans-serif; text-anchor: middle" x="382.553498" y="1140.179688" transform="rotate(-0 382.553498 1140.179688)">0.025</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m441016d1a7" x="427.22934" y="1125.16" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="fill: #333333; font: 11px 'Nimbus Sans', sans-serif; text-anchor: middle" x="427.22934" y="1140.179688" transform="rotate(-0 427.22934 1140.179688)">0.050</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m441016d1a7" x="471.905182" y="1125.16" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="fill: #333333; font: 11px 'Nimbus Sans', sans-serif; text-anchor: middle" x="471.905182" y="1140.179688" transform="rotate(-0 471.905182 1140.179688)">0.075</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m441016d1a7" x="516.581024" y="1125.16" style="fill: #333333; stroke: #333333; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="fill: #333333; font: 11px 'Nimbus Sans', sans-serif; text-anchor: middle" x="516.581024" y="1140.179688" transform="rotate(-0 516.581024 1140.179688)">0.100</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font: 13px 'Nimbus Sans', sans-serif; text-anchor: middle" x="449.442656" y="1156.209531" transform="rotate(-0 449.442656 1156.209531)">mean(|SHAP value|) (average impact on model output magnitude)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_7">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="1100.478906" transform="rotate(-0 330.877656 1100.478906)">PAM_disrupted</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_8">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="1071.136094" transform="rotate(-0 330.877656 1071.136094)">RTTdha_ins_RTTpha_PBS_U_content</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_9">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="1041.638906" transform="rotate(-0 330.877656 1041.638906)">First_extension_nucleotide_T</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_10">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="1012.296094" transform="rotate(-0 330.877656 1012.296094)">RTTdha_ins_RTTpha_G+C_content</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_11">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="982.798906" transform="rotate(-0 330.877656 982.798906)">PBS_U_content</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_12">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="953.456094" transform="rotate(-0 330.877656 953.456094)">spacer_scaffold_RTTdha_ins_RTTpha_PBS_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_13">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="923.958906" transform="rotate(-0 330.877656 923.958906)">PBS_A_content</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_14">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="894.616094" transform="rotate(-0 330.877656 894.616094)">spacer_scaffold_RTTdha_ins_RTTpha_PBS_Tm</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_15">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="865.196094" transform="rotate(-0 330.877656 865.196094)">RTTpha_C_content</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_16">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="835.698906" transform="rotate(-0 330.877656 835.698906)">Nick_index_centered_abs</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_17">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="806.278906" transform="rotate(-0 330.877656 806.278906)">PBS_MFE</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_18">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="776.936094" transform="rotate(-0 330.877656 776.936094)">RTTdha_ins_RTTpha_PBS_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="text_19">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="747.516094" transform="rotate(-0 330.877656 747.516094)">spacer_scaffold_RTTdha_ins_RTTpha_PBS_MFE</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="text_20">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="718.096094" transform="rotate(-0 330.877656 718.096094)">RTTdha_ins_RTTpha_C_content</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="text_21">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="688.598906" transform="rotate(-0 330.877656 688.598906)">RTTdha_C_content</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="text_22">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="659.178906" transform="rotate(-0 330.877656 659.178906)">RTTdha_MFE</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="text_23">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="629.758906" transform="rotate(-0 330.877656 629.758906)">PBS_G+C_content</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="text_24">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="600.338906" transform="rotate(-0 330.877656 600.338906)">RTTpha_U_content</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="text_25">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="570.918906" transform="rotate(-0 330.877656 570.918906)">RTTdha_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="text_26">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="541.498906" transform="rotate(-0 330.877656 541.498906)">PBS_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="text_27">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="512.078906" transform="rotate(-0 330.877656 512.078906)">RTTdha_A_content</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="text_28">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="482.736094" transform="rotate(-0 330.877656 482.736094)">RTTdha_ins_RTTpha_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="text_29">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="453.316094" transform="rotate(-0 330.877656 453.316094)">RTTpha_G_content</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="text_30">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="423.818906" transform="rotate(-0 330.877656 423.818906)">RTTdha_ins_RTTpha_MFE</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="text_31">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="394.398906" transform="rotate(-0 330.877656 394.398906)">RTTdha_G+C_content</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="text_32">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="364.978906" transform="rotate(-0 330.877656 364.978906)">PBS_C_content</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="text_33">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="335.558906" transform="rotate(-0 330.877656 335.558906)">RTTdha_Tm</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="text_34">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="306.216094" transform="rotate(-0 330.877656 306.216094)">RTTdha_ins_RTTpha_PBS_C_content</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="text_35">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="276.796094" transform="rotate(-0 330.877656 276.796094)">RTTpha_G+C_content</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="text_36">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="247.298906" transform="rotate(-0 330.877656 247.298906)">Nick_index_centered</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="text_37">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="217.878906" transform="rotate(-0 330.877656 217.878906)">RTTdha_U_content</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="text_38">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="188.458906" transform="rotate(-0 330.877656 188.458906)">PBS_Tm</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="text_39">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="159.038906" transform="rotate(-0 330.877656 159.038906)">ins_A_content</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="text_40">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="129.618906" transform="rotate(-0 330.877656 129.618906)">RTTdha_ins_RTTpha_A_content</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="text_41">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="100.198906" transform="rotate(-0 330.877656 100.198906)">Strand_num</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="text_42">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="70.778906" transform="rotate(-0 330.877656 70.778906)">RTTdha_length</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="text_43">
+      <text style="fill: #333333; font: 13px 'Nimbus Sans', sans-serif; text-anchor: end" x="330.877656" y="41.436094" transform="rotate(-0 330.877656 41.436094)">On-Target Efficacy Score</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_40">
+    <path d="M 337.877656 1125.16 
+L 561.007656 1125.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p64b54dade9">
+   <rect x="337.877656" y="7.2" width="223.13" height="1117.96"/>
+  </clipPath>
+ </defs>
+</svg>
